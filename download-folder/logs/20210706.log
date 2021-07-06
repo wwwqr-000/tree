@@ -1,5 +1,0 @@
-17:11:03.042	INFO	Monitor          detect monitor '\\.\DISPLAY1' scale:1.000000 size: 0:1080-0:1920 desktop: 0:1080-1600:3520
-17:11:03.043	INFO	Monitor          detect monitor '\\.\DISPLAY5' scale:1.000000 size: 109:1009--1600:0 desktop: 109:1009-0:1600
-17:11:03.043	INFO	Capture          select monitor '\\.\DISPLAY1'
-17:11:08.053	INFO	Opus             compress stop
-17:11:08.068	INFO	CommandExecute   stopped
